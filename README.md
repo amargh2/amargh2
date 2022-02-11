@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amargh2
-- 👀 I’m interested in Python, networking, automation, and IT in general.
+- 👀 I’m interested in Python, web development, computer networking, linux, automation, and IT in general.
 - 🌱 I’m currently learning JavaScript, HTML, and CSS through The Odin Project.
 
 <!---
