@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @amargh2
 - 👀 I’m interested in Python, networking, automation, and IT in general.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript, HTML, and CSS through The Odin Project.
 
 <!---
 amargh2/amargh2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
